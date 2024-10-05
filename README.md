@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <title>My dog is named Kala</title>
-</head>
-
 <body>
     <header>
         <h1>Kala is my dog</h1>
